@@ -1,0 +1,57 @@
+/*Text and Button holder*/
+
+#Text1andButtonsHolder {
+    height: 648.5px;
+    width: 1365.5px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+/**/
+
+
+
+/*Text1 Style Settings*/
+
+#Testing1 {
+    height: 100px;
+    width: 100px;
+    background: red;
+    position: absolute;
+    top: 274.25px;
+    left: 632.75px;
+    font-family: cursive;
+    text-align: center;
+}
+
+/**/
+
+
+
+/*Button style settings*/
+
+.Testingbuttons {
+    height: 75px;
+    width: 100px;
+}
+
+#TestingButton1 {
+    position: absolute;
+    top: 186.25px;
+    left: 507.75px;
+}
+
+#TestingButton2 {
+    position: absolute;
+    top: 186.25px;
+    left: 632.75px;
+}
+
+#TestingButton3 {
+    position: absolute;
+    top: 186.25px;
+    left: 757.75px;
+}
+
+/**/
